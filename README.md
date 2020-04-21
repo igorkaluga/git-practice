@@ -1,0 +1,2 @@
+#GIT-PRACTICE
+This is just a repo for practicing using the command line for completing all of the tasks. I created a directory and then a readme file using the command line. I then initialized git and linked the external repo to it. I am follwing The Odin Projects learning path and wanted to practice using command line as was taught in one of the lessons.
